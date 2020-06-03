@@ -1,8 +1,8 @@
 ---
-title: Socials
+title: Extras
 menus: header
-layout: social
-permalink: /social
+layout: extras
+permalink: /extras
 ---
 
 
