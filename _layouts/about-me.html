@@ -63,6 +63,20 @@ layout: default
         >
           <i class="fab fa-linkedin-in"></i>
         </a>
+        {% endif %} {% if site.twitch_username %}
+        <a
+          class="social-link"
+          href="http://twitch.tv/{{ site.twitch_username }}"
+        >
+          <i class="fab fa-twitch"></i>
+        </a>
+        {% endif %} {% if site.spotify_username %}
+        <a
+          class="social-link"
+          href="https://open.spotify.com/user/{{ site.spotify_username }}"
+        >
+          <i class="fab fa-spotify"></i>
+        </a>
         {% endif %} {% if site.telegram_username %}
         <a class="social-link" href="http://t.me/{{ site.telegram_username }}">
           <i class="fab fa-telegram-plane"></i>
