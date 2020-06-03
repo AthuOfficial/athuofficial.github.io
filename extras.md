@@ -19,7 +19,7 @@ permalink: /extras
 
 <h3 id="twitch-responsive-embed">Watch me try to be good at gaming only on</h3>
 
-<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=athuofficial.github.io/" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <hr />
 
@@ -27,6 +27,12 @@ permalink: /extras
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile.</h6>
 
 <iframe src="https://open.spotify.com/embed/playlist/710Wc0XQ6Kbs3c3wDe7n6j" width="320" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<hr />
+
+<h3>Watch me rant on the current happenings of our beautiful world</h3>
+
+<a class="twitter-timeline" href="https://twitter.com/inflatonn?ref_src=twsrc%5Etfw">Tweets by inflatonn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr />
 
