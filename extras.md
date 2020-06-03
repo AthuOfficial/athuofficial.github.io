@@ -12,7 +12,7 @@ permalink: /extras
 <br />
 <h3>Watch my vlog on one of my best trips ever.</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="620" height="378" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 <hr />
 
@@ -32,7 +32,7 @@ permalink: /extras
 
 <h3>Watch me rant on the current happenings of our beautiful world</h3>
 
-<a width="1280" height="720" class="twitter-timeline" href="https://twitter.com/inflatonn?ref_src=twsrc%5Etfw">Tweets by inflatonn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a width="620" height="378" class="twitter-timeline" href="https://twitter.com/inflatonn?ref_src=twsrc%5Etfw">Tweets by inflatonn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr />
 
