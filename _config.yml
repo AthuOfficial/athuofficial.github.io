@@ -20,11 +20,12 @@ urls:
 
 author_logo: profile.png
 author: Atharva Kulkarni
-author_bio: I am a student, software engineer, and writer currently living in Dallas, TX. My interests range from technology to reading. I am also interested in writing, programming, and video games.
+author_bio: I am a student currently living in Dallas, TX. My professional interests range from solving state of the art Machine Learning problems to spending my evenings on hackerrank.
 author_email: "atharvak56@gmail.com"
 author_location: Dallas, USA
 author_website_url: "http://athuofficial.github.io"
 typewrite-text: Atharva Kulkarni. Software Engineer. Writer. Sports and Esports fan.
+author_hobbies: Playing Ukulele and writing blogs which make a difference to our world are some of my major hobbies. Apart from that I like to olay and watch sports and esports. Whenever I get time, I like to indulge myself in playing games. I usually stream them at twitch.tv/inflatonn.
 
 author_work_experiences:
             - company_name: Google
