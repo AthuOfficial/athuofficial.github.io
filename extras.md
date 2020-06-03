@@ -18,7 +18,7 @@ permalink: /extras
 
 <h3 id="twitch-responsive-embed">Watch me try to be good at gaming only on</h3>
 
-<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=https://athuofficial.github.io/" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=athuofficial.github.io/" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 <hr />
 
