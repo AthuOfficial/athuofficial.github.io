@@ -10,16 +10,7 @@ permalink: /extras
 
 
 <br />
-<h3>Watch my vlog on one of my best trips ever.</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-<hr />
-
-
-<h3 id="twitch-responsive-embed">Watch me try to be good at gaming only on</h3>
-
-<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<hr />
 
 <h3 id="soundcloud-embed">Listen to my Jam.</h3>
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile.</h6>
@@ -38,3 +29,13 @@ permalink: /extras
 
 <hr />
 
+<h3>Watch my vlog on one of my best trips ever.</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<hr />
+
+
+<h3 id="twitch-responsive-embed">Watch me try to be good at gaming only on</h3>
+
+<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<hr />

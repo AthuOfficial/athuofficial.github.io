@@ -11,12 +11,12 @@ urls:
       url: /about
     - text: Extras
       url : /extras
+    - text: Facts
+      url: /facts
     - text: Blog
       url: /blog
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
 
 # Edit these details
 
