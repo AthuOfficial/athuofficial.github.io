@@ -9,6 +9,7 @@ permalink: /extras
 <h1 class="text-center">Everything I do apart from very thing I do</h1>
 
 <div class="text-center">
+<br />
 <h3>Watch my vlog on one of my best trips ever.</h3>
 
 <iframe width="620" height="378" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
