@@ -10,7 +10,6 @@ permalink: /extras
 
 
 <br />
-<div class=text-center>
 
 <h3 id="soundcloud-embed">Listen to my Jam.</h3>
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile. You can follow me by clicking the button.</h6>
@@ -36,4 +35,3 @@ permalink: /extras
 
 <iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <hr />
-</div>
