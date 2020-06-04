@@ -10,12 +10,13 @@ permalink: /extras
 
 
 <br />
-
+<div class=text-center>
 
 <h3 id="soundcloud-embed">Listen to my Jam.</h3>
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile. You can follow me by clicking the button.</h6>
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:athuofficial&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 <iframe src="https://open.spotify.com/embed/playlist/710Wc0XQ6Kbs3c3wDe7n6j" width="320" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:athuofficial&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 
 <hr />
 
@@ -35,3 +36,4 @@ permalink: /extras
 
 <iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <hr />
+</div>
