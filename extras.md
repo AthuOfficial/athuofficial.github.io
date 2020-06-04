@@ -13,8 +13,8 @@ permalink: /extras
 
 
 <h3 id="soundcloud-embed">Listen to my Jam.</h3>
-<h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile.</h6>
-
+<h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile. You can follow me by clicking the button.</h6>
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:athuofficial&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 <iframe src="https://open.spotify.com/embed/playlist/710Wc0XQ6Kbs3c3wDe7n6j" width="320" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <hr />
