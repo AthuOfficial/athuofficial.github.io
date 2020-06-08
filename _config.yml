@@ -44,13 +44,13 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: https://media-exp1.licdn.com/dms/image/C560BAQE1blYw-iWNGA/company-logo_200_200/0?e=2159024400&v=beta&t=95hxysVkjJpniBtP0Wfz7dr56Iskg-b-vGkNL9LpQ7o
+              - college_logo: uta.png
                 college_name: University of Texas at Arlington
                 college_url: https://www.uta.edu/
                 college_degree: Masters in Computer Science
                 description: Machine learning and Artificial Intelligence specialization
                 visibility: true
-              - college_logo: mit.png
+              - college_logo: vit.png
                 college_name: Vellore Instituite of Technology
                 college_url: https://vit.ac.in/
                 college_degree: Bachelor of Technology
