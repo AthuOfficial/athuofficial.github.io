@@ -30,17 +30,29 @@ typewrite-text: Atharva Kulkarni. Software Engineer. Writer. Sports and Esports 
 author_hobbies: Playing Ukulele and writing blogs which make a difference to our world are some of my major hobbies. Apart from that I like to play and watch sports and esports. Whenever I get time, I stream all my gameplay at twitch.tv/inflatonn.
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Cobalt Speech and Language
+              company_logo: Cobalt+Logo.jpg
+              company_url: https://www.cobaltspeech.com/
+              designation: Research Intern
+              description: Worked on various ASR and TTS engines
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Salesforce
+              company_logo: salesforce.png
+              company_url: https://www.salesforce.com/
+              designation: Data Analyst Intern
+              description: Worked on various SFDC solutions and Einstien engine
+              visibility: true
+            - company_name: SixteenZero Analytics
+              company_logo: sz.png
+              company_url: https://sixteenzero.net/
+              designation: Web development Intern
+              description: Worked on the client side website
+              visibility: true
+            - company_name: AIESEC St.Petersburg
+              company_logo: aiesec.jpeg
+              company_url: https://aiesec.org/?gclid=EAIaIQobChMIi8qJoJzz6QIVicDACh0QOw-GEAAYASAAEgJ7KfD_BwE
+              designation: Winter Intern
+              description: Worked as a Java and English teacher to Russian students
               visibility: true
 
 author_education_details:
