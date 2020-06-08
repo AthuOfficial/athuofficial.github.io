@@ -48,6 +48,12 @@ author_work_experiences:
               designation: Web development Intern
               description: Worked on the client side website
               visibility: true
+            - company_name: Blue Banyan Technologies
+              company_logo: bb.png
+              company_url: https://www.bluebanyan.co.in/
+              designation: Web development Intern
+              description: Worked on various projects revolving web development
+              visibility: true
             - company_name: AIESEC St.Petersburg
               company_logo: aiesec.jpeg
               company_url: https://aiesec.org/
