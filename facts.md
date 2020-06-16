@@ -1,6 +1,7 @@
 ---
-title: Extras
+title: Facts
 menus: header
 layout: facts
 permalink: /facts
 ---
+
