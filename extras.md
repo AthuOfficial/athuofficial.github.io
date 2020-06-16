@@ -5,7 +5,7 @@ layout: extras
 permalink: /extras
 ---
 
-
+<br />
 <h1 class="text-center">Everything I do apart from Everything I do</h1>
 
 
@@ -27,11 +27,11 @@ permalink: /extras
 
 <h3>Watch my vlog on one of my best trips ever.</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11N6YvJttXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr />
 
 
 <h3 id="twitch-responsive-embed">Watch me try to be good at gaming only on</h3>
 
-<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?channel=inflatonn&parent=athuofficial.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <hr />
