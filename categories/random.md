@@ -4,7 +4,6 @@ title: Random
 permalink: /blog/categories/random
 ---
 <br/>
-<br/>
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">

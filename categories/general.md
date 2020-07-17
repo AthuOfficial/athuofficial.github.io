@@ -4,7 +4,6 @@ title: General
 permalink: /blog/categories/general
 ---
 <br/>
-<br/>
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">

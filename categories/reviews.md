@@ -4,7 +4,6 @@ title: Reviews
 permalink: /blog/categories/reviews
 ---
 <br/>
-<br/>
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">
