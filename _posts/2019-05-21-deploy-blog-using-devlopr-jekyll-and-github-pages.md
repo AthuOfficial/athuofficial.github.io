@@ -1,11 +1,9 @@
 ---
 layout: post
 title: How to deploy devlopr-jekyll Blog using Github Pages and Travis
-author: Sujay Kundu
+author: Atharva Kulkarni
 date: '2019-05-21 14:35:23 +0530'
-category:
-        - guides
-        - tutorials
+category: technology
 summary: Deployment Guide for devlopr-jekyll blog using Github Pages and Travis CI
 thumbnail: /assets/img/posts/deploy-using-github-pages-and-travis.png
 ---
