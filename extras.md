@@ -12,7 +12,7 @@ permalink: /extras
 <br />
 <h3 id="soundcloud-embed">Check out my media list</h3>
 <h5><a href = "https://www.notion.so/inflatonn/Content-List-f929ecd1a09b400e8765837e0ec92608" target="_blank">This</a> is an extensive list of all the media I consume. The list is very fluid and will be updated continiously.</h5>
-<br/>
+<hr />
 
 <h3 id="soundcloud-embed">Listen to my Jam.</h3>
 <h6 id="soundcloud-embed">P.S. Linking only my main playlist. Other playlists can be found in my profile. You can follow me by clicking the button.</h6>
