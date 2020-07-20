@@ -33,7 +33,7 @@ author_hobbies: Playing Ukulele and writing blogs which make a difference to our
 
 author_work_experiences:
             - company_name: Cobalt Speech and Language
-              company_logo: Cobalt+Logo.jpg
+              company_logo: cobalt.png
               company_url: https://www.cobaltspeech.com/
               designation: Research Intern
               description: Worked on various ASR and TTS engines
@@ -57,7 +57,7 @@ author_work_experiences:
               description: Worked on various projects revolving web development
               visibility: true
             - company_name: AIESEC St.Petersburg
-              company_logo: aiesec.jpeg
+              company_logo: aiesec.jpg
               company_url: https://aiesec.org/
               designation: Winter Intern
               description: Worked as a Java and English teacher to Russian students
