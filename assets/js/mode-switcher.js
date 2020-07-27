@@ -18,11 +18,26 @@ systemInitiatedDark.addListener(prefersColorTest);
 function modeSwitcher() {
 	sessionStorage.setItem('theme', 'dark');
 	let theme = sessionStorage.getItem('theme');
-	document.documentElement.setAttribute('data-theme', 'dark');
+	if (theme === "dark") {
+		document.documentElement.setAttribute('data-theme', 'light');
+		sessionStorage.setItem('theme', 'light');
+		// document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+	}	else if (theme === "light") {
+		document.documentElement.setAttribute('data-theme', 'dark');
+		sessionStorage.setItem('theme', 'dark');
+		// document.getElementById("theme-toggle").innerHTML = "Light Mode";
+	} else if (systemInitiatedDark.matches) {
+		document.documentElement.setAttribute('data-theme', 'light');
+		sessionStorage.setItem('theme', 'light');
+		//let theme = sessionStorage.getItem('theme');
+		//console.log("this was triggered");
+		// document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+	} else {
+		document.documentElement.setAttribute('data-theme', 'dark');
+		sessionStorage.setItem('theme', 'dark');
+		// document.getElementById("theme-toggle").innerHTML = "Light Mode";
+	}
 }
- $(document).ready(function () {
-   modeSwitcher();
- });
 
 if (theme === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
