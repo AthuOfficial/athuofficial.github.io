@@ -39,9 +39,6 @@ function modeSwitcher() {
 		// document.getElementById("theme-toggle").innerHTML = "Light Mode";
 	}
 }
-$(document).ready(function () {
-	modeSwitcher();
-  });
 
 if (theme === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
