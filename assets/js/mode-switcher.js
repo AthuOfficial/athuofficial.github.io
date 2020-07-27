@@ -16,8 +16,8 @@ systemInitiatedDark.addListener(prefersColorTest);
 
 
 function modeSwitcher() {
-	sessionStorage.setItem('theme', 'dark');
 	let theme = sessionStorage.getItem('theme');
+	document.documentElement.setAttribute('data-theme', 'dark');
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
