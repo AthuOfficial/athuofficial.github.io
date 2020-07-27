@@ -16,8 +16,8 @@ systemInitiatedDark.addListener(prefersColorTest);
 
 
 function modeSwitcher() {
-	sessionStorage.setItem('theme', 'dark');
 	let theme = sessionStorage.getItem('theme');
+	document.documentElement.setAttribute('data-theme', 'dark');
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
@@ -38,9 +38,6 @@ function modeSwitcher() {
 		// document.getElementById("theme-toggle").innerHTML = "Light Mode";
 	}
 }
-$(document).ready(function () {
-	modeSwitcher();
-  });
 
 if (theme === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
