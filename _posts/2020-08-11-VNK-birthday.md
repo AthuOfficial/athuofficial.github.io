@@ -33,7 +33,7 @@ Teaching you how to use the smart phone was one of my guilty pleasures. We as a 
 
 When you left us on 11th February 2020, we lost a gem of a person and you left a very huge void to fill. The only way to try and fill this void is by following what you did. Maintaining relationships like you did. Helping others like you. Living life like you did. Today, as we mourn over your 6 month death anniversary and your 90th birth anniversary, I promise you from that tomorrow onwards we will celebrate your life and carry this great legacy forward.
 
-One last thing before I sign off, I still remember one thing you asked for me to do before I left for Dallas. I promised you I will do it and believe me when I say, I am working hard towards achieving it.
+I still remember one thing you asked for me to do before I left for Dallas. I promised you I will do it and believe me when I say, I am working hard towards achieving it.
 
 Yours loving,
 
@@ -43,9 +43,9 @@ I want say something to everyone reading this. I don't think I am credible enoug
 
 Remember how he never stopped learning. Remember how he never stopped husling. Remember how he thought us that age is no limit to learn. Keep on learning. Never stop. Remember how respectfully he lived his life. Remember how even after retirement he didn't stop working. Remember how while doing all this, he never stopped helping his wife in the kitchen. Remember how he kept maintaining all the relations. Remember how he helped anyone selflessly when needed. And most importantly, Remember how he never stopped enjoying his life.
 
-Dear Anna, we all miss you but we all know you are in a better place. Wish you a very HAPPY BIRTHDAY
+Dear Anna, we all miss you but we all know you are in a better place. Wish you a very HAPPY BIRTHDAY!
 
-Thank you all for taking time to read this. I hoped you liked it.
+Thank you all for taking time to read this. I hope you like it.
 
 -Atharva Kulkarni
 
