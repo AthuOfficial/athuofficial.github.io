@@ -13,7 +13,7 @@ thumbnail: /assets/img/posts/anna.jpeg
 
 Dear Anna,
 
-Well I don't know how to start writing this.
+Well I don't know how to start writing this. Today marks 6 months since you left us and it is also your 90th Birthday.
 
 Writing one fond memory of you when I have lived most of my life with you and Aai is perhaps the most difficult thing to do. Now that I think retrospectively, I realise, all my life I have spent more time with you than with my parents.
 
@@ -43,7 +43,7 @@ I want say something to everyone reading this. I don't think I am credible enoug
 
 Remember how he never stopped learning. Remember how he never stopped husling. Remember how he thought us that age is no limit to learn. Keep on learning. Never stop. Remember how respectfully he lived his life. Remember how even after retirement he didn't stop working. Remember how while doing all this, he never stopped helping his wife in the kitchen. Remember how he kept maintaining all the relations. Remember how he helped anyone selflessly when needed. And most importantly, Remember how he never stopped enjoying his life.
 
-Dear Anna, we all miss you but we all know you are in a better place.
+Dear Anna, we all miss you but we all know you are in a better place. Wish you a very HAPPY BIRTHDAY
 
 Thank you all for taking time to read this. I hoped you liked it.
 
